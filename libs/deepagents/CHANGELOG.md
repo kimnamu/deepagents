@@ -2,6 +2,13 @@
 
 # Deep Agents Changelog
 
+## [0.7.19](https://github.com/langchain-ai/deepagents/compare/deepagents==0.7.18...deepagents==0.7.19) (2026-09-24)
+
+
+### Bug Fixes
+
+* **sdk:** bound tool offload paths and abbreviate long IDs ([#6519](https://github.com/langchain-ai/deepagents/issues/6519)) ([ca5f0e5](https://github.com/langchain-ai/deepagents/commit/ca5f0e5eae7ee749e81ae8e9e3bbc1762447fcc2))
+
 ## [0.7.18](https://github.com/langchain-ai/deepagents/compare/deepagents==0.7.17...deepagents==0.7.18) (2026-09-22)
 
 ### Bug Fixes
